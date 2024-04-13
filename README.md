@@ -86,7 +86,7 @@
   <img src="images/MajorEvent_hist.png" alt="" style="width: 60%">
 </figure>
 
-**Table S1: Access to EV Charging Stations by Housing Type**
+**Table S11: Access to EV Charging Stations by Housing Type**
 | Housing Type                 | Existing Access With 120V Perception | Existing Access | Potential Access | Existing Access with Parking Behavior Modification | Potential Access with Parking Behavior Modification |
 |------------------------------|--------------------------------------|-----------------|------------------|----------------------------------------------------|----------------------------------------------------|
 | SFH Detached, Owned          | 14%                                  | 33%             | 49%              | 70%                                                | 86%                                                |
