@@ -38,17 +38,26 @@
   <img src="images/HHs_tenure_LU.png" alt="HH by comm type" style="width: 60%">
 </figure>
 
+<br><be>
+
 <br><br>
 
 <figure>
-  <figcaption><b>Figure S5</b>: PG&E Service Division in SACOG Region</figcaption>
+  <figcaption><b>Figure S5</b>: Community for Sensitivity Analysis</figcaption>
+  <img src="images/TAZ_for_sensitivity.png" alt="" style="width: 60%">
+</figure>
+
+<br><br>
+
+<figure>
+  <figcaption><b>Figure S6</b>: PG&E Service Division in SACOG Region</figcaption>
   <img src="images/PGE_sacog.png" alt=" " style="width: 60%">
 </figure>
 
 <br><br>
 
 <figure>
-  <figcaption><b>Figure S6</b>: PG&E Reliability Indeces in Sacramento Service Division</figcaption>
+  <figcaption><b>Figure S7</b>: PG&E Reliability Indeces in Sacramento Service Division</figcaption>
   <img src="images/AIDI_sac.png" alt=" " style="width: 40%">
   <img src="images/AIFI_sac.png" alt=" " style="width: 40%">
   <img src="images/CAIDI_sac.png" alt=" " style="width: 40%">
@@ -57,7 +66,7 @@
 <br><br>
 
 <figure>
-  <figcaption><b>Figure S7</b>: PG&E Reliability Indeces in Sierra Service Division</figcaption>
+  <figcaption><b>Figure S8</b>: PG&E Reliability Indeces in Sierra Service Division</figcaption>
   <img src="images/AIDI_sie.png" alt=" " style="width: 40%">
   <img src="images/AIFI_sie.png" alt=" " style="width: 40%">
   <img src="images/CAIDI_sie.png" alt=" " style="width: 40%">
@@ -66,7 +75,7 @@
 <br><br>
 
 <figure>
-  <figcaption><b>Figure S8</b>: PG&E Reliability Indeces in North Valley Service Division</figcaption>
+  <figcaption><b>Figure S9</b>: PG&E Reliability Indeces in North Valley Service Division</figcaption>
   <img src="images/AIDI_NV.png" alt=" " style="width: 40%">
   <img src="images/AIFI_NV.png" alt=" " style="width: 40%">
   <img src="images/CAIDI_NV.png" alt=" " style="width: 40%">
@@ -75,14 +84,14 @@
 <br><br>
 
 <figure>
-  <figcaption><b>Figure S9</b>: Avg. AIDI by Community Type and Median Income</figcaption>
+  <figcaption><b>Figure S10</b>: Avg. AIDI by Community Type and Median Income</figcaption>
   <img src="images/AIDI_byComType_byInc.png" alt="" style="width: 60%">
 </figure>
 
 <br><br>
 
 <figure>
-  <figcaption><b>Figure S10</b>: Histogram of Major Power Outrage Event Duration</figcaption>
+  <figcaption><b>Figure S11</b>: Histogram of Major Power Outrage Event Duration</figcaption>
   <img src="images/MajorEvent_hist.png" alt="" style="width: 60%">
 </figure>
 
